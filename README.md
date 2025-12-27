@@ -21,9 +21,9 @@ I'm a high school student with a passion for technology and mathematics. As a se
 
 ### 🌐 Connect With Me
 - 🌍 **Website:** [hrittick.vercel.app](https://hrittick.vercel.app)
-- 📧 **Email:** [Contact me via email]
-- 📱 **Instagram:** [@hrittm]
-- 🐦 **Twitter:** [@hrittm]
+- 📧 **Email:** [Contact me via email](mailto:thathrimondal@gmail.com)
+- 📱 **Instagram:** [@hrittm](https://www.instagram.com/0xhrit/)
+- 🐦 **Twitter:** [@hrittm](https://x.com/hrittm)
 
 ---
 
