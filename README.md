@@ -1,40 +1,30 @@
+# hrittm.github.io
 
-![image](https://placehold.co/1200x630/000000/ffffff.png?text=hrittick.)
+>[!NOTE]
+>On development.
 
-_Yoo!!_ The repository is for my web! 🕸️ :shipit:
+## About Me
 
-This website is developed with the help of [Google AI Studio](https://aistudio.google.com/), and the design is inspired by [chronark.com](https://chronark.com). It is built with [TypeScript](https://www.typescriptlang.org/) and deployed with [Vercel](https://vercel.com/).
+Hi, I'm @hrittm! 👋
 
-**[📌 View Web](https://hrittick.vercel.app/)** 
+I'm a high school student with a passion for technology and mathematics. As a self-proclaimed **philoMATH** (math lover) and **TECHsavvy** (tech enthusiast), I love exploring the intersection of logic, problem-solving, and code.
+
+### 🔧 Technologies & Skills
+- **Primary Language:** Python 🐍
+- **Currently Learning:** C
+- **Interests:** Open Source contributions, Problem Solving
+
+### 🎯 What I Do
+- Building projects and experimenting with code
+- Solving challenging problems (it's not just a skill, it's a hobby!)
+- Contributing to the open-source community
+
+### 🌐 Connect With Me
+- 🌍 **Website:** [hrittick.vercel.app](https://hrittick.vercel.app)
+- 📧 **Email:** [Contact me via email](mailto:thathrimondal@gmail.com)
+- 📱 **Instagram:** [@hrittm](https://www.instagram.com/0xhrit/)
+- 🐦 **Twitter:** [@hrittm](https://x.com/hrittm)
 
 ---
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-Clone:
-```sh-session
-git clone https://github.com/hrittm/hrittick-web.git
-cd hrittick-web
-```
-
-
-Install dependencies:
-```sh-session
-npm install
-```
-
-Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-
-Run the app:
-```sh-session
-npm run dev
-```
----
-
-> [!NOTE]
-> The website is still on development.
-
-and   
-#### THANKS. 🌸💕
+*Always learning, always building. Let's connect and create something amazing together!* ✨
