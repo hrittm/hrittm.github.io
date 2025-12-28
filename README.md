@@ -1,4 +1,4 @@
-# hrittm.github.io
+# @hrittm
 ## About Me
 
 Hi, I'm @hrittm! 👋
