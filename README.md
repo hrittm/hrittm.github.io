@@ -1,6 +1,6 @@
 ![hrittick.is-a.dev banner](assets/header.jpg)
 
-# 🖥️ hrittick.is-a.dev
+# hrittick.is-a.dev
 
 [![Website](https://img.shields.io/badge/live-hrittick.is--a.dev-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hrittick.is-a.dev)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org)
@@ -68,7 +68,9 @@ The project directory is structured cleanly to separate scripts, styles, and ass
 ├── .gitignore          # Git exclusion rules
 ├── CNAME               # GitHub Pages custom domain bind (hrittick.is-a.dev)
 ├── index.html          # HTML5 terminal wrapper & viewport entry point
+├── LICENSE             # MIT license
 └── README.md           # Documentation
+
 ```
 
 ---
@@ -99,3 +101,4 @@ Then open `http://localhost:8000` in your web browser.
 
 ---
 *Created with 💻, ☕, and 📐. Feel free to explore the console!*
+Thanks. ☘️
