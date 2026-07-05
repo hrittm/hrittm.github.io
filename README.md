@@ -100,5 +100,5 @@ python3 -m http.server 8000
 Then open `http://localhost:8000` in your web browser.
 
 ---
-*Created with 💻, ☕, and 📐. Feel free to explore the console!*
+*Created with 💻, ☕, and 📐. Feel free to explore the console!*  
 Thanks. ☘️
