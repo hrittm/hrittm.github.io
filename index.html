@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO Meta Tags -->
+  <title>Hrittick | Developer Terminal</title>
+  <meta name="title" content="Hrittick | Developer Terminal">
+  <meta name="description" content="Explore the interactive full-screen developer terminal portfolio of Hrittick (@hrittm), a high school student passionate about math and computer science. Try custom shell commands, math visualizations, and themes.">
+  <meta name="keywords" content="hrittm, hrittick, developer terminal, command line portfolio, math lover, is-a.dev, edvault, dotfiles">
+  <meta name="author" content="Hrittick">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hrittick.is-a.dev/">
+  <meta property="og:title" content="Hrittick | Developer Terminal">
+  <meta property="og:description" content="Explore the interactive full-screen developer terminal portfolio of Hrittick (@hrittm). Try custom shell commands, math visualizations, and themes.">
+  <meta property="og:image" content="https://placehold.co/1200x630/000000/ffffff.png?text=hrittick.is-a-dev">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://hrittick.is-a.dev/">
+  <meta property="twitter:title" content="Hrittick | Developer Terminal">
+  <meta property="twitter:description" content="Explore the interactive full-screen developer terminal portfolio of Hrittick (@hrittm). Try custom shell commands, math visualizations, and themes.">
+  <meta property="twitter:image" content="https://placehold.co/1200x630/000000/ffffff.png?text=hrittick.is-a-dev">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2220%22 fill=%22%23000000%22/><text x=%2250%22 y=%2265%22 font-family=%22monospace%22 font-weight=%22bold%22 font-size=%2265%22 fill=%22%2300ff41%22 text-anchor=%22middle%22>&gt;_</text></svg>">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body class="theme-matrix crt-active">
+  <h1 class="sr-only">Hrittick (@hrittm) - Developer & Philomath Terminal Console</h1>
+  
+  <!-- CRT Filter Overlay (Covers the entire screen) -->
+  <div class="crt-overlay" id="crt-overlay"></div>
+
+  <!-- Full-Screen TTY Workspace -->
+  <main class="tty-container" id="terminal-window">
+    <section class="tty-screen" id="terminal-screen">
+      <div class="terminal-output" id="terminal-output">
+        <!-- Interactive Welcome Content Loads Here -->
+      </div>
+      
+      <!-- Interactive Canvas Overlay for Math Visualizations -->
+      <div class="canvas-container" id="canvas-container">
+        <canvas id="math-canvas"></canvas>
+        <button class="close-canvas-btn" id="close-canvas" title="Close Visualization">×</button>
+      </div>
+
+      <!-- Prompt Line -->
+      <div class="terminal-input-line" id="input-line-container">
+        <span class="prompt-symbol">hrittm@dev:~$</span>
+        <div class="input-wrapper">
+          <span class="input-display" id="input-display"></span><span class="custom-caret" id="custom-caret">&nbsp;</span>
+          <input type="text" id="terminal-input" class="hidden-input" autocomplete="off" autofocus spellcheck="false" aria-label="Terminal prompt">
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Scripts -->
+  <script src="scripts/script.js"></script>
+</body>
+</html>
